@@ -186,7 +186,6 @@ main {
         background-image: url("./images/bg-pattern-top-desktop.svg"),
 		url("./images/bg-pattern-bottom-desktop.svg");
         background-size: auto;
-        border: 1px solid red;
         min-height: 100vh;
     }
 
